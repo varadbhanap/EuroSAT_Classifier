@@ -66,6 +66,4 @@ See methodology.pdf
 * Gradio
 * Google Colab
 
-## 📌 Author
 
-Siddhesh Thorat
